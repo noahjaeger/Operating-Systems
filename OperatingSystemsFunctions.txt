@@ -2,3 +2,5 @@ Starting Device: The operating system needs to manage the startup of the device.
 then, if successful, launch the kernel. The kernel will then take control of the system.
 
 Providing a User interface: The Operating system must provide an interface for the user to interact with it. This can take the form of a graphical interface, or a command line interface. Graphical interfaces are more intuitive and easer to use, but command line interfaces provide more precise control. Most operating systems use a combination of both. 
+
+Managing Programs: The operating system can manage one program at a time if it is a single tasking operating system, or multiple if it is a multitasking operating system. Most operating systems today are multitasking. A multitasking operating system will run one program in the foreground, and the other programs, as well as background tasks, in the background.

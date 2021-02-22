@@ -1,2 +1,4 @@
 Starting Device: The operating system needs to manage the startup of the device. The operating system will perform a series of tests on the comupter hardware,
 then, if successful, launch the kernel. The kernel will then take control of the system.
+
+Providing a User interface: The Operating system must provide an interface for the user to interact with it. This can take the form of a graphical interface, or a command line interface. Graphical interfaces are more intuitive and easer to use, but command line interfaces provide more precise control. Most operating systems use a combination of both. 
